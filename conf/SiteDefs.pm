@@ -82,7 +82,16 @@ sub update_conf {
     $SiteDefs::__species_aliases{ 'Yarrowia_lipolytica'} = [qw(yl)];
     $SiteDefs::__species_aliases{ 'Trichoderma_reesei'} = [qw(tr)];
     $SiteDefs::__species_aliases{ 'Cryptococcus_neoformans'} = [qw(cn)];
-
+# Release 23
+    $SiteDefs::__species_aliases{ 'Cladosporium_fulvum' } = [qw(cf)];
+    $SiteDefs::__species_aliases{ 'Colletotrichum_gloeosporioides' } = [qw(cg)];
+    $SiteDefs::__species_aliases{ 'Colletotrichum_higginsianum' } = [qw(ch)];
+    $SiteDefs::__species_aliases{ 'Colletotrichum_orbiculare' } = [qw(co)];
+    $SiteDefs::__species_aliases{ 'Dothistroma_septosporum' } = [qw(ds)];
+    $SiteDefs::__species_aliases{ 'Fusarium_fujikuroi' } = [qw(ff)];
+    $SiteDefs::__species_aliases{ 'Fusarium_pseudograminearum' } = [qw(fp)];
+    $SiteDefs::__species_aliases{ 'Puccinia_graminisug99' } = [qw(pgug99)];
+    
     $SiteDefs::SITE_NAME = 'Ensembl Fungi';
     $SiteDefs::ENSEMBL_SITETYPE = 'Ensembl Fungi';
     $SiteDefs::SITE_FTP= 'ftp://ftp.ensemblgenomes.org/pub/fungi';
