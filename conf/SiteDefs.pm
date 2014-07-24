@@ -83,7 +83,7 @@ sub update_conf {
     $SiteDefs::__species_aliases{ 'Trichoderma_reesei'} = [qw(tr)];
     $SiteDefs::__species_aliases{ 'Cryptococcus_neoformans'} = [qw(cn)];
 # Release 23
-    $SiteDefs::__species_aliases{ 'Cladosporium_fulvum' } = [qw(cf)];
+    #$SiteDefs::__species_aliases{ 'Cladosporium_fulvum' } = [qw(cf)];  ## delayed
     $SiteDefs::__species_aliases{ 'Colletotrichum_gloeosporioides' } = [qw(cg)];
     $SiteDefs::__species_aliases{ 'Colletotrichum_higginsianum' } = [qw(ch)];
     $SiteDefs::__species_aliases{ 'Colletotrichum_orbiculare' } = [qw(co)];
