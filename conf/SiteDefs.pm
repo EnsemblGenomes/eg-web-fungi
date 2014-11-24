@@ -73,7 +73,7 @@ sub update_conf {
     $SiteDefs::__species_aliases{ 'Sclerotinia_sclerotiorum'} = [qw(ss)];
     $SiteDefs::__species_aliases{ 'Leptosphaeria_maculans'} = [qw(lm)];
     $SiteDefs::__species_aliases{ 'Trichoderma_virens'} = [qw(tv)];
-    $SiteDefs::__species_aliases{ 'Glomerella_graminicola'} = [qw(gg)];
+    $SiteDefs::__species_aliases{ 'Colletotrichum_graminicola'} = [qw(cg)];
     $SiteDefs::__species_aliases{ 'Komagataella_pastoris'} = [qw(kp)];
     $SiteDefs::__species_aliases{ 'Pyrenophora_teres'} = [qw(pte)];
     $SiteDefs::__species_aliases{ 'Pyrenophora_triticirepentis'} = [qw(ptr)];
