@@ -67,7 +67,7 @@ sub update_conf {
     $SiteDefs::__species_aliases{ 'Magnaporthe_oryzae' } = [qw(mo)];
     $SiteDefs::__species_aliases{ 'Magnaporthe_poae' } = [qw(mp)];
  
-    $SiteDefs::__species_aliases{ 'Botryotinia_fuckeliana' } = [qw(bf)];
+    $SiteDefs::__species_aliases{ 'Botrytis_cinerea' } = [qw(bc)];
     $SiteDefs::__species_aliases{ 'Puccinia_graminis' } = [qw(pg)];
     $SiteDefs::__species_aliases{ 'Schizosaccharomyces_japonicus'} = [qw(sj)];
     $SiteDefs::__species_aliases{ 'Sclerotinia_sclerotiorum'} = [qw(ss)];
