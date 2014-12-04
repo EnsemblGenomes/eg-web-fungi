@@ -32,6 +32,7 @@ sub update_conf {
     $SiteDefs::__species_aliases{ 'Aspergillus_nidulans' } = [qw(as )];
     $SiteDefs::__species_aliases{ 'Aspergillus_niger' } = [qw(an A_niger)];
     $SiteDefs::__species_aliases{ 'Aspergillus_fumigatus' } = [qw(af A_fumigatus)];
+$SiteDefs::__species_aliases{Verticillium_dahliaejr2} = [qw(Verticillium_dahliaejr2)];
     $SiteDefs::__species_aliases{ 'Aspergillus_oryzae' } = [qw(ao A_oryzae)];
     $SiteDefs::__species_aliases{ 'Aspergillus_terreus' } = [qw(at A_terreus)];
     $SiteDefs::__species_aliases{ 'Aspergillus_flavus' } = [qw(av A_flavus)];
@@ -93,6 +94,7 @@ sub update_conf {
     $SiteDefs::__species_aliases{ 'Puccinia_graminisug99' } = [qw(pgug99)];
 # Release 25
     $SiteDefs::__species_aliases{Gibberella_zeaeph1} = [qw(Gibberella_zeaeph1)];
+    $SiteDefs::__species_aliases{Verticillium_dahliaejr2} = [qw(Verticillium_dahliaejr2)];
     $SiteDefs::SITE_NAME = 'Ensembl Fungi';
     $SiteDefs::ENSEMBL_SITETYPE = 'Ensembl Fungi';
     $SiteDefs::SITE_FTP= 'ftp://ftp.ensemblgenomes.org/pub/fungi';
