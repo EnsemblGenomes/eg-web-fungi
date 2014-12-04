@@ -91,7 +91,8 @@ sub update_conf {
     $SiteDefs::__species_aliases{ 'Fusarium_fujikuroi' } = [qw(ff)];
     $SiteDefs::__species_aliases{ 'Fusarium_pseudograminearum' } = [qw(fp)];
     $SiteDefs::__species_aliases{ 'Puccinia_graminisug99' } = [qw(pgug99)];
-    
+# Release 25
+    $SiteDefs::__species_aliases{Gibberella_zeaeph1} = [qw(Gibberella_zeaeph1)];
     $SiteDefs::SITE_NAME = 'Ensembl Fungi';
     $SiteDefs::ENSEMBL_SITETYPE = 'Ensembl Fungi';
     $SiteDefs::SITE_FTP= 'ftp://ftp.ensemblgenomes.org/pub/fungi';
