@@ -32,7 +32,6 @@ sub update_conf {
     $SiteDefs::__species_aliases{ 'Aspergillus_nidulans' } = [qw(as )];
     $SiteDefs::__species_aliases{ 'Aspergillus_niger' } = [qw(an A_niger)];
     $SiteDefs::__species_aliases{ 'Aspergillus_fumigatus' } = [qw(af A_fumigatus)];
-$SiteDefs::__species_aliases{Verticillium_dahliaejr2} = [qw(Verticillium_dahliaejr2)];
     $SiteDefs::__species_aliases{ 'Aspergillus_oryzae' } = [qw(ao A_oryzae)];
     $SiteDefs::__species_aliases{ 'Aspergillus_terreus' } = [qw(at A_terreus)];
     $SiteDefs::__species_aliases{ 'Aspergillus_flavus' } = [qw(av A_flavus)];
@@ -40,11 +39,11 @@ $SiteDefs::__species_aliases{Verticillium_dahliaejr2} = [qw(Verticillium_dahliae
     $SiteDefs::__species_aliases{ 'Aspergillus_clavatus' } = [qw(ac A_clavatus)];
     
     $SiteDefs::__species_aliases{ 'Aspergillus_fumigatusa1163' } = [qw(af A_fumigatus_a1163)];
-    $SiteDefs::__species_aliases{'Verticillium_dahliae'} = [qw(Verticillium_dahliae)];
-    $SiteDefs::__species_aliases{Schizosaccharomyces_octosporus} = [qw(Schizosaccharomyces_octosporus)];
-    $SiteDefs::__species_aliases{Schizosaccharomyces_cryophilus} = [qw(Schizosaccharomyces_cryophilus)];
-    $SiteDefs::__species_aliases{Blumeria_graminis} = [qw(Blumeria_graminis)];
-    $SiteDefs::__species_aliases{Microbotryum_violaceum} = [qw(Microbotryum_violaceum)];
+    $SiteDefs::__species_aliases{ 'Verticillium_dahliae'} = [qw(Verticillium_dahliae)];
+    $SiteDefs::__species_aliases{ 'Schizosaccharomyces_octosporus' } = [qw(Schizosaccharomyces_octosporus)];
+    $SiteDefs::__species_aliases{ 'Schizosaccharomyces_cryophilus' } = [qw(Schizosaccharomyces_cryophilus)];
+    $SiteDefs::__species_aliases{ 'Blumeria_graminis' } = [qw(Blumeria_graminis)];
+    $SiteDefs::__species_aliases{ 'Microbotryum_violaceum' } = [qw(Microbotryum_violaceum)];
 
     $SiteDefs::__species_aliases{ 'Neurospora_crassa' } = [qw(nc N_crassa)];
 
@@ -93,8 +92,12 @@ $SiteDefs::__species_aliases{Verticillium_dahliaejr2} = [qw(Verticillium_dahliae
     $SiteDefs::__species_aliases{ 'Fusarium_pseudograminearum' } = [qw(fp)];
     $SiteDefs::__species_aliases{ 'Puccinia_graminisug99' } = [qw(pgug99)];
 # Release 25
-    $SiteDefs::__species_aliases{Gibberella_zeaeph1} = [qw(Gibberella_zeaeph1)];
-    $SiteDefs::__species_aliases{Verticillium_dahliaejr2} = [qw(Verticillium_dahliaejr2)];
+    $SiteDefs::__species_aliases{ 'Verticillium_dahliaejr2' } = [qw(Verticillium_dahliaejr2)];
+    $SiteDefs::__species_aliases{ 'Fusarium_verticillioides' } = [qw(Fusarium_verticillioides)];
+    $SiteDefs::__species_aliases{ 'Fusarium_solani' } = [qw(Fusarium_solani)];
+    $SiteDefs::__species_aliases{ 'Fusarium_graminearum' } = [qw(Fusarium_graminearum)];
+
+
     $SiteDefs::SITE_NAME = 'Ensembl Fungi';
     $SiteDefs::ENSEMBL_SITETYPE = 'Ensembl Fungi';
     $SiteDefs::SITE_FTP= 'ftp://ftp.ensemblgenomes.org/pub/fungi';
