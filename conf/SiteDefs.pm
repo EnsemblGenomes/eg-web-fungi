@@ -50,9 +50,6 @@ sub update_conf {
 #    $SiteDefs::__species_aliases{ 'Puccinia_graministritici' } = [qw(pg P_graministritici)];
 
     $SiteDefs::__species_aliases{ 'Fusarium_oxysporum' } = [qw(fo F_oxysporum)];
-    $SiteDefs::__species_aliases{ 'Gibberella_moniliformis' } = [qw(gm G_moniliformis)];
-    $SiteDefs::__species_aliases{ 'Gibberella_zeae' } = [qw(gz G_zeae)];
-    $SiteDefs::__species_aliases{ 'Nectria_haematococca' } = [qw(nh N_haematococca)];
             
     $SiteDefs::__species_aliases{ 'Ustilago_maydis' } = [qw(um U_maydis)];
     $SiteDefs::__species_aliases{ 'Puccinia_triticina' } = [qw(tc T_triticina)];
