@@ -90,8 +90,11 @@ sub update_conf {
       qw(
         Fungi_ascomycota1
         Fungi_ascomycota2
+        Fungi_ascomycota3
         Fungi_basidiomycota1
+        Fungi_blastocladiomycota1
         Fungi_chytridiomycota1
+        Fungi_fungiincertaesedis1
         Fungi_glomeromycota1
         Fungi_microsporidia1
         Fungi_rozellomycota1
