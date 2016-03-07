@@ -4,7 +4,7 @@
       "id": "PRJEB2733-SNP",
       "species": "schizosaccharomyces_pombe",
       "assembly": "ASM294v2",
-      "type": "http",
+      "type": "local",
       "filename_template": "/nfs/public/rw/ensembl/ensembl-genomes/eg_data/release-31/vcf/fungi/schizosaccharomyces_pombe/Spombe.2013-01-02.filt3c.nr57-final.snps.anno-snpeff3.cleaned.vcf.gz",
       "chromosomes": ["I", "II", "III", "MT"]
     },
@@ -12,7 +12,7 @@
       "id": "PRJEB2733-SNP",
       "species": "schizosaccharomyces_pombe",
       "assembly": "ASM294v2",
-      "type": "http",
+      "type": "local",
       "filename_template": "/nfs/public/rw/ensembl/ensembl-genomes/eg_data/release-31/vcf/fungi/schizosaccharomyces_pombe/Spombe.2013-01-02.filt3c.nr57-final.snps.anno-snpeff3.cleaned.MTR.vcf.gz",
       "chromosomes": ["MTR"]
     },
@@ -20,7 +20,7 @@
       "id": "PRJEB2733-SNP",
       "species": "schizosaccharomyces_pombe",
       "assembly": "ASM294v2",
-      "type": "http",
+      "type": "local",
       "filename_template": "/nfs/public/rw/ensembl/ensembl-genomes/eg_data/release-31/vcf/fungi/schizosaccharomyces_pombe/Spombe.2013-01-02.filt3c.nr57-final.snps.anno-snpeff3.cleaned.AB325691.vcf.gz",
       "chromosomes": ["AB325691"]
     },
@@ -28,7 +28,7 @@
       "id": "PRJEB2733-INDEL",
       "species": "schizosaccharomyces_pombe",
       "assembly": "ASM294v2",
-      "type": "http",
+      "type": "local",
       "filename_template": "/nfs/public/rw/ensembl/ensembl-genomes/eg_data/release-31/vcf/fungi/schizosaccharomyces_pombe/Spombe.indels.unique.nr57.final.annotated.2014-01-23.cleaned2.vcf.gz",
       "chromosomes": ["I", "II", "III", "MT"]
     },
@@ -36,7 +36,7 @@
       "id": "PRJEB2733-INDEL",
       "species": "schizosaccharomyces_pombe",
       "assembly": "ASM294v2",
-      "type": "http",
+      "type": "local",
       "filename_template": "/nfs/public/rw/ensembl/ensembl-genomes/eg_data/release-31/vcf/fungi/schizosaccharomyces_pombe/Spombe.indels.unique.nr57.final.annotated.2014-01-23.cleaned2.MTR.vcf.gz",
       "chromosomes": ["MTR"]
     },
@@ -44,7 +44,7 @@
       "id": "PRJEB2733-INDEL",
       "species": "schizosaccharomyces_pombe",
       "assembly": "ASM294v2",
-      "type": "http",
+      "type": "local",
       "filename_template": "/nfs/public/rw/ensembl/ensembl-genomes/eg_data/release-31/vcf/fungi/schizosaccharomyces_pombe/Spombe.indels.unique.nr57.final.annotated.2014-01-23.cleaned2.AB325691.EVA.vcf.gz",
       "chromosomes": ["AB325691"]
     }
