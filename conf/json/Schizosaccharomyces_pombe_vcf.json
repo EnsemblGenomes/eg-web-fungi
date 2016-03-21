@@ -1,7 +1,7 @@
 {
   "collections": [
     {
-      "id": "PRJEB2733-SNP",
+      "id": "PRJEB2733-SNP-1",
       "species": "schizosaccharomyces_pombe",
       "assembly": "ASM294v2",
       "type": "remote",
@@ -9,7 +9,7 @@
       "chromosomes": ["I", "II", "III", "MT"]
     },
     {
-      "id": "PRJEB2733-SNP",
+      "id": "PRJEB2733-SNP-2",
       "species": "schizosaccharomyces_pombe",
       "assembly": "ASM294v2",
       "type": "remote",
@@ -17,7 +17,7 @@
       "chromosomes": ["MTR"]
     },
     {
-      "id": "PRJEB2733-SNP",
+      "id": "PRJEB2733-SNP-3",
       "species": "schizosaccharomyces_pombe",
       "assembly": "ASM294v2",
       "type": "remote",
@@ -25,7 +25,7 @@
       "chromosomes": ["AB325691"]
     },
     {
-      "id": "PRJEB2733-INDEL",
+      "id": "PRJEB2733-INDEL-1",
       "species": "schizosaccharomyces_pombe",
       "assembly": "ASM294v2",
       "type": "remote",
@@ -33,7 +33,7 @@
       "chromosomes": ["I", "II", "III", "MT"]
     },
     {
-      "id": "PRJEB2733-INDEL",
+      "id": "PRJEB2733-INDEL-2",
       "species": "schizosaccharomyces_pombe",
       "assembly": "ASM294v2",
       "type": "remote",
@@ -41,7 +41,7 @@
       "chromosomes": ["MTR"]
     },
     {
-      "id": "PRJEB2733-INDEL",
+      "id": "PRJEB2733-INDEL-3",
       "species": "schizosaccharomyces_pombe",
       "assembly": "ASM294v2",
       "type": "remote",
