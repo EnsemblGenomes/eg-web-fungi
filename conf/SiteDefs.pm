@@ -95,6 +95,7 @@ sub update_conf {
         Fungi_basidiomycota1
         Fungi_blastocladiomycota1
         Fungi_chytridiomycota1
+        Fungi_entomophthoromycota1
         Fungi_fungiincertaesedis1
         Fungi_glomeromycota1
         Fungi_microsporidia1
