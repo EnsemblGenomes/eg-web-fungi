@@ -110,6 +110,8 @@ sub update_conf {
     );
 
     push @SiteDefs::ENSEMBL_HTDOCS_DIRS,  $SiteDefs::ENSEMBL_SERVERROOT.'/../biomarts/fungi/biomart-perl/htdocs';
+
+    $SiteDefs::MAX_PROCESS_SIZE = 1000000; # Kill httpd over 1000000KB
 }
 
 1;
