@@ -50,6 +50,7 @@ sub update_conf {
         Colletotrichum_orbiculare
         Cryptococcus_neoformans
         Dothistroma_septosporum
+	Fusarium_culmorum
         Fusarium_fujikuroi
         Fusarium_graminearum
         Fusarium_oxysporum
@@ -68,6 +69,7 @@ sub update_conf {
         Phaeosphaeria_nodorum
         Puccinia_graminis
         Puccinia_graminisug99
+	Puccinia_striiformis
         Puccinia_triticina
         Pyrenophora_teres
         Pyrenophora_triticirepentis
