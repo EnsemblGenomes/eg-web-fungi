@@ -59,7 +59,6 @@ sub add_external_browsers {
     delete $browsers{'NCBI_DB'};
   }
 
-  $self->add_vega_link;
   
   foreach (sort keys %browsers) {
     next unless $browsers{$_};
