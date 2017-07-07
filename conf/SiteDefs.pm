@@ -42,6 +42,7 @@ sub update_conf {
         aspergillus_niger
         aspergillus_oryzae
         aspergillus_terreus
+        beauveria_bassiana
         blumeria_graminis
         botrytis_cinerea
         colletotrichum_gloeosporioides
@@ -50,7 +51,7 @@ sub update_conf {
         colletotrichum_orbiculare
         cryptococcus_neoformans
         dothistroma_septosporum
-	fusarium_culmorum
+        fusarium_culmorum
         fusarium_fujikuroi
         fusarium_graminearum
         fusarium_oxysporum
@@ -69,7 +70,7 @@ sub update_conf {
         phaeosphaeria_nodorum
         puccinia_graminis
         puccinia_graminisug99
-	puccinia_striiformis
+        puccinia_striiformis
         puccinia_triticina
         pyrenophora_teres
         pyrenophora_triticirepentis
