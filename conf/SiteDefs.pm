@@ -21,6 +21,7 @@ use strict;
 sub update_conf {
 
     $SiteDefs::EG_DIVISION                = 'fungi';
+    $SiteDefs::SUBDOMAIN_DIR              = 'fungi';
     $SiteDefs::SITE_NAME                  = 'Ensembl Fungi';
     $SiteDefs::ENSEMBL_SITETYPE           = 'Ensembl Fungi';
     $SiteDefs::SITE_FTP                   = 'ftp://ftp.ensemblgenomes.org/pub/fungi';
