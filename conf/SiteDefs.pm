@@ -100,7 +100,6 @@ sub update_conf {
         fungi_blastocladiomycota1
         fungi_chytridiomycota1
         fungi_entomophthoromycota1
-        fungi_glomeromycota1
         fungi_microsporidia1
         fungi_mucoromycota1
         fungi_rozellomycota1
