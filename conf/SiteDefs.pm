@@ -19,7 +19,7 @@ limitations under the License.
 package EG::Fungi::SiteDefs;
 use strict;
 sub update_conf {
-
+    $SiteDefs::DIVISION                   = 'fungi';
     $SiteDefs::EG_DIVISION                = 'fungi';
     $SiteDefs::SUBDOMAIN_DIR              = 'fungi';
     $SiteDefs::SITE_NAME                  = 'Ensembl Fungi';
