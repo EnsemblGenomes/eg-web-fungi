@@ -96,7 +96,7 @@ sub update_conf {
         fungi_ascomycota1
         fungi_ascomycota2
         fungi_ascomycota3
-        fungi_ascomycota4.ini
+        fungi_ascomycota4
         fungi_basidiomycota1
         fungi_blastocladiomycota1
         fungi_chytridiomycota1
