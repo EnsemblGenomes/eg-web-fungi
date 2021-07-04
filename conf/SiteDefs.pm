@@ -34,6 +34,8 @@ sub update_conf {
 
     $SiteDefs::PRODUCTION_NAMES = [
       qw(
+        aphanomyces_astaci
+        aphanomyces_invadans
         ashbya_gossypii
         aspergillus_clavatus
         aspergillus_flavus
@@ -46,6 +48,14 @@ sub update_conf {
         beauveria_bassiana
         blumeria_graminis
         botrytis_cinerea
+        candida_albicans
+        candida_auris
+        candida_duobushaemulonis
+        candida_glabrata
+        candida_haemuloni
+        candida_parapsilosis
+        candida_pseudohaemulonis
+        candida_tropicalis
         colletotrichum_gloeosporioides
         colletotrichum_graminicola
         colletotrichum_higginsianum
@@ -60,6 +70,9 @@ sub update_conf {
         fusarium_solani
         fusarium_verticillioides
         gaeumannomyces_graminis
+        globisporangium_ultimum
+        histoplasma_capsulatum
+        hyaloperonospora_arabidopsidis
         komagataella_pastoris
         leptosphaeria_maculans
         magnaporthe_oryzae
@@ -69,10 +82,12 @@ sub update_conf {
         neosartorya_fischeri
         neurospora_crassa
         phaeosphaeria_nodorum
+        phanerochaete_chrysosporium
         puccinia_graminis
         puccinia_graminisug99
         puccinia_striiformis
         puccinia_triticina
+        pyricularia_oryzae
         pyrenophora_teres
         pyrenophora_triticirepentis
         saccharomyces_cerevisiae
@@ -97,7 +112,9 @@ sub update_conf {
         fungi_ascomycota2
         fungi_ascomycota3
         fungi_ascomycota4
+        fungi_ascomycota5
         fungi_basidiomycota1
+        fungi_basidiomycota2
         fungi_blastocladiomycota1
         fungi_chytridiomycota1
         fungi_entomophthoromycota1
