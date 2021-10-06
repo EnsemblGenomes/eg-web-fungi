@@ -24,7 +24,7 @@ sub update_conf {
     $SiteDefs::SUBDOMAIN_DIR              = 'fungi';
     $SiteDefs::SITE_NAME                  = 'Ensembl Fungi';
     $SiteDefs::ENSEMBL_SITETYPE           = 'Ensembl Fungi';
-    $SiteDefs::SITE_FTP                   = 'ftp://ftp.ensemblgenomes.org/pub/fungi';
+    $SiteDefs::SITE_FTP                   = 'http://ftp.ensemblgenomes.org/pub/fungi';
     $SiteDefs::ENSEMBL_PORT               = 8004;
     $SiteDefs::ENSEMBL_SERVERNAME         = 'fungi.ensembl.org';
     $SiteDefs::ENSEMBL_PRIMARY_SPECIES    = 'Saccharomyces_cerevisiae';
