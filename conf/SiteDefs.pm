@@ -72,7 +72,6 @@ sub update_conf {
         gaeumannomyces_graminis
         globisporangium_ultimum
         histoplasma_capsulatum
-        hyaloperonospora_arabidopsidis
         komagataella_pastoris
         leptosphaeria_maculans
         magnaporthe_oryzae
