@@ -34,8 +34,6 @@ sub update_conf {
 
     $SiteDefs::PRODUCTION_NAMES = [
       qw(
-        aphanomyces_astaci
-        aphanomyces_invadans
         ashbya_gossypii
         aspergillus_clavatus
         aspergillus_flavus
@@ -70,7 +68,6 @@ sub update_conf {
         fusarium_solani
         fusarium_verticillioides
         gaeumannomyces_graminis
-        globisporangium_ultimum
         histoplasma_capsulatum
         komagataella_pastoris
         leptosphaeria_maculans
