@@ -36,9 +36,11 @@ sub update_conf {
       qw(
         ashbya_gossypii
         aspergillus_clavatus
+        aspergillus_fischeri
         aspergillus_flavus
         aspergillus_fumigatus
         aspergillus_fumigatusa1163
+        aspergillus_lentulus
         aspergillus_nidulans
         aspergillus_niger
         aspergillus_oryzae
@@ -68,6 +70,7 @@ sub update_conf {
         fusarium_solani
         fusarium_verticillioides
         gaeumannomyces_graminis
+        globisporangium_ultimum_gca000387525
         histoplasma_capsulatum
         komagataella_pastoris
         leptosphaeria_maculans
@@ -75,6 +78,7 @@ sub update_conf {
         magnaporthe_poae
         melampsora_laricipopulina
         microbotryum_violaceum
+        mucor_lusitanicus
         neosartorya_fischeri
         neurospora_crassa
         phaeosphaeria_nodorum
@@ -87,6 +91,7 @@ sub update_conf {
         pyrenophora_teres
         pyrenophora_triticirepentis
         saccharomyces_cerevisiae
+        schizophyllum_commune
         schizosaccharomyces_cryophilus
         schizosaccharomyces_japonicus
         schizosaccharomyces_octosporus
