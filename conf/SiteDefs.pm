@@ -79,7 +79,6 @@ sub update_conf {
         melampsora_laricipopulina
         microbotryum_violaceum
         mucor_lusitanicus
-        neosartorya_fischeri
         neurospora_crassa
         phaeosphaeria_nodorum
         phanerochaete_chrysosporium
