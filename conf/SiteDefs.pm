@@ -30,7 +30,7 @@ sub update_conf {
     $SiteDefs::ENSEMBL_PRIMARY_SPECIES    = 'Saccharomyces_cerevisiae';
     $SiteDefs::ENSEMBL_SECONDARY_SPECIES  = 'Schizosaccharomyces_pombe';
     $SiteDefs::LARGE_SPECIES_SET          = 1;
-    $SiteDefs::ENSEMBL_HMMER_ENABLED      = 1;
+    $SiteDefs::ENSEMBL_HMMER_ENABLED      = 0;
 
     $SiteDefs::PRODUCTION_NAMES = [
       qw(
