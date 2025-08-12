@@ -70,7 +70,6 @@ sub update_conf {
         fusarium_solani
         fusarium_verticillioides
         gaeumannomyces_graminis
-        globisporangium_ultimum_gca000387525
         histoplasma_capsulatum
         komagataella_pastoris
         leptosphaeria_maculans
