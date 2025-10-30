@@ -34,7 +34,6 @@ sub update_conf {
 
     $SiteDefs::PRODUCTION_NAMES = [
       qw(
-        ashbya_gossypii
         aspergillus_clavatus
         aspergillus_fischeri
         aspergillus_flavus
@@ -73,7 +72,6 @@ sub update_conf {
         histoplasma_capsulatum
         komagataella_pastoris
         leptosphaeria_maculans
-        magnaporthe_oryzae
         magnaporthe_poae
         melampsora_laricipopulina
         microbotryum_violaceum
@@ -82,7 +80,6 @@ sub update_conf {
         phaeosphaeria_nodorum
         phanerochaete_chrysosporium
         puccinia_graminis
-        puccinia_graminisug99
         puccinia_striiformis
         puccinia_triticina
         pyricularia_oryzae
